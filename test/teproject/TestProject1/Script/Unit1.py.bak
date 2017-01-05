@@ -1,0 +1,2 @@
+﻿def Test1():
+  Sys.Browser('*').ToUrl("http://54.164.122.88:4444/result?si=999&browser=chrome1")

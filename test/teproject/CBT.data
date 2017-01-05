@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root Version="1">
+	<Providers>
+		<A609CA20xCE0Bx4080x93FCx121361DAEEF9 version="1">
+			<groups>
+				<Group0 Caption="EnvironmentList1" Key="FFCF6734x663Bx4DADxBC48x7CEC3B4C891A" Enabled="True">
+					<Hosts>
+						<Host0 Device="Windows 10" Browser="Google Chrome 53" Resolution="1920x1080" DeviceApi="Win10" BrowserApi="Chrome53" ResolutionApi="1920x1080" />
+					</Hosts>
+					<Tests>
+						<Test0 Name="Test1" Project="TestProject1" TestName="Script|Unit1|Test1" Enabled="True" Key="9B6E9C3Dx565Fx4BC6xB6E3x52773577D7A1" />
+					</Tests>
+				</Group0>
+			</groups>
+		</A609CA20xCE0Bx4080x93FCx121361DAEEF9>
+	</Providers>
+</Root>

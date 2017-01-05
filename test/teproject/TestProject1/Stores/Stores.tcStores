@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{5238AF17-5FE2-48FF-8BCC-9803A975A4F4}" version="12.0">
+	<children>
+		<child name="WebTesting" key="{4ADBA4E2-4D44-468C-9FD5-0178D7C10FE0}" type="Web Testing" typeId="{B205BEB2-E15D-463E-8F95-9AF50A3E8F46}" pluginName="Web Checkpoints">
+			<data path="WebTesting\WebTesting.tcWtc" />
+		</child>
+	</children>
+	<folders />
+</Root>
